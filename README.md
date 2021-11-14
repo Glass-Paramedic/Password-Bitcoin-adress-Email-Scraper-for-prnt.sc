@@ -8,4 +8,5 @@ Barebones but funtional.
 - regex bitcoin/email adress detection
 - Multithreading for faster scraping
 - Proxies to prevent ratelimiting (Currently without mutlithreading the scraper does not get ratelimited)
+- Saving text instead of images
 
